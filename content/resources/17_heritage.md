@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-001j-introduction-to-urban-design-and-development-spring-2006/760dd312fdc2e83b1097076a30a9a622_17_heritage.pdf
+file: /media/courses/11-001j-introduction-to-urban-design-and-development-spring-2006/760dd312fdc2e83b1097076a30a9a622_17_heritage.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 17_heritage.pdf
 uid: 760dd312-fdc2-e83b-1097-076a30a9a622

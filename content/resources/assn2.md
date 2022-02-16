@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains an exercise and the requirements for the exercise.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-001j-introduction-to-urban-design-and-development-spring-2006/621de68241813f01194215354a86ac8c_assn2.pdf
+file: /media/courses/11-001j-introduction-to-urban-design-and-development-spring-2006/621de68241813f01194215354a86ac8c_assn2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assn2.pdf
 uid: 621de682-4181-3f01-1942-15354a86ac8c

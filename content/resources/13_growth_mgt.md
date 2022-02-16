@@ -4,8 +4,13 @@ description: This file contains information about sprawl, Massachusetts growing 
   New England Snapshot, smart growth, growth control, political effects, growth management
   principles, smart growth principles, resident housing choices, village, TOD, retail
   growth and opponents.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-001j-introduction-to-urban-design-and-development-spring-2006/856538cbe0530be12bf442fbcb90588d_13_growth_mgt.pdf
+file: /media/courses/11-001j-introduction-to-urban-design-and-development-spring-2006/856538cbe0530be12bf442fbcb90588d_13_growth_mgt.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 13_growth_mgt.pdf
 uid: 856538cb-e053-0be1-2bf4-42fbcb90588d
