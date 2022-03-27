@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d82c8a8a-46ef-1786-3d92-97ba1cc18af4
 resourcetype: Document
 title: 17_heritage.pdf
 uid: 760dd312-fdc2-e83b-1097-076a30a9a622

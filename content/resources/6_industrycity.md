@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d82c8a8a-46ef-1786-3d92-97ba1cc18af4
 resourcetype: Document
 title: 6_industrycity.pdf
 uid: 2e8cf889-3cb3-8036-e0c4-9c514d039ec5

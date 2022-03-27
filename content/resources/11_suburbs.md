@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d82c8a8a-46ef-1786-3d92-97ba1cc18af4
 resourcetype: Document
 title: 11_suburbs.pdf
 uid: e0c454cf-8d83-44e9-f1da-6b922d505b09

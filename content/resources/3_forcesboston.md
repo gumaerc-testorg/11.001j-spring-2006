@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d82c8a8a-46ef-1786-3d92-97ba1cc18af4
 resourcetype: Document
 title: 3_forcesboston.pdf
 uid: 2b138650-c2e1-7fc9-deb5-137516cb5f88

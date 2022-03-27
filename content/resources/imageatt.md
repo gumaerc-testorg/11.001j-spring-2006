@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d82c8a8a-46ef-1786-3d92-97ba1cc18af4
 resourcetype: Document
 title: imageatt.pdf
 uid: d3a1aa52-1272-eb60-c73b-85190a7dd415

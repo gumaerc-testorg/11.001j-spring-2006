@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d82c8a8a-46ef-1786-3d92-97ba1cc18af4
 resourcetype: Document
 title: 2_ways_of_see.pdf
 uid: 3a7d2f0e-b2ed-2574-7eac-4ca1768eb514

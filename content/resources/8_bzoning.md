@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d82c8a8a-46ef-1786-3d92-97ba1cc18af4
 resourcetype: Document
 title: 8_bzoning.pdf
 uid: 9ab7e4e0-5ffe-eaa4-d7b0-14dadd1df6ed
