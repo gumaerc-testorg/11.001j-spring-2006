@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-001j-introduction-to-urban-design-and-development-spring-2006/760dd312fdc2e83b1097076a30a9a622_17_heritage.pdf
+file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/760dd312fdc2e83b1097076a30a9a622_17_heritage.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
