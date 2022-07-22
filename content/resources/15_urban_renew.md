@@ -5,6 +5,7 @@ file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 15_urban_renew.pdf
 uid: f5469dc9-9a8d-93c8-1524-bd62abd5b7ab
 ---
 This file contains information and images for the 1949 housing act.
-

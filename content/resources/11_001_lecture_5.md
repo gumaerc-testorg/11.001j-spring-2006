@@ -5,6 +5,7 @@ file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 11_001_Lecture_5.pdf
 uid: 996b827a-d1b5-e334-39a6-edee0746d3cf
 ---
 This resource contains the images related to design of American cities.
-

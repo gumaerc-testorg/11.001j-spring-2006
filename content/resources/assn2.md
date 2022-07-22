@@ -5,6 +5,7 @@ file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn2.pdf
 uid: 621de682-4181-3f01-1942-15354a86ac8c
 ---
 This file contains an exercise and the requirements for the exercise.
-

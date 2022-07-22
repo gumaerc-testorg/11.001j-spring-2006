@@ -7,6 +7,7 @@ file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 8_bzoning.pdf
 uid: 9ab7e4e0-5ffe-eaa4-d7b0-14dadd1df6ed
 ---
 This file contains information about beyond traditional zoning, it's outgrowth, results of traditionally zoned world, new tools, incentive zoning, planned unit development, performance zoning, cambridge zoning,  design guidelines and images.
-
