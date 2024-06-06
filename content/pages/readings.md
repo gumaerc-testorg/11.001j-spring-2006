@@ -57,9 +57,9 @@ Questions of the day: What does the history of Boston's development tell us abou
 
 Krieger, Alex. "Past Futures: Boston - Visionary Plans and Practical Visions." *Places* 5, no. 3 (1989): 56-71.
 
-{{% resource_link "a130b641-02bd-415c-a759-bfe00bbfc317" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lynch, Kevin. *The Image of the City*. Cambridge, MA: MIT Press, 1960, pp. 1-25. ISBN: 9780262620017.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262620017) Lynch, Kevin. *The Image of the City*. Cambridge, MA: MIT Press, 1960, pp. 1-25. ISBN: 9780262620017.
 
-{{% resource_link "ae759a4b-9f47-4fca-8bd0-2f23f626da12" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Seasholes, Nancy S. "Back Bay and South End." In *Gaining Ground: A History of Landmaking in Boston*. Cambridge, MA: MIT Press, 2003, pp. 152-209. ISBN: 9780262194945.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262194945) Seasholes, Nancy S. "Back Bay and South End." In *Gaining Ground: A History of Landmaking in Boston*. Cambridge, MA: MIT Press, 2003, pp. 152-209. ISBN: 9780262194945.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -123,7 +123,7 @@ Lewis, Roger K. "The Powers and Pitfalls of Zoning," and "From Zoning to Master 
 
 Barnett, Jonathan. "Zoning, Mapping, and Urban Renewal As Urban Design Techniques," and "Designing Cities Without Designing Buildings." In *An Introduction to Urban Design*. New York, NY: Harper and Row, 1982, pp. 57- 97. ISBN: 0064301141.
 
-"{{% resource_link "85170a3e-5626-44da-a836-d9c00d046398" "Citizen's Guide to Zoning for Boston" %}}." Boston, MA: Boston Redevelopment Authority, pp. 1-24.
+"[Citizen's Guide to Zoning for Boston](http://www.cityofboston.gov/bra/zoning/zoning.asp)." Boston, MA: Boston Redevelopment Authority, pp. 1-24.
 
 Babcock, Richard. "The Stage - Historical and Current," and "The Purpose of Zoning." In *The Zoning Game*. Madison, WI: University of Wisconsin Press, 1966, pp. 3-18 and 115-125. ISBN: 0299040941.
 
@@ -157,7 +157,7 @@ Questions of the day: What assumptions does each thinker make about how people s
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "a4419a9c-8e9e-4b7a-a040-a58e98041461" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Howard, Ebenezer. "Introduction," and "The Town-Country Magnet." In *Garden Cities of To-Morrow*. Cambridge, MA: MIT Press, 1965, pp. 41-57. ISBN: 9780262580021.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262580021) Howard, Ebenezer. "Introduction," and "The Town-Country Magnet." In *Garden Cities of To-Morrow*. Cambridge, MA: MIT Press, 1965, pp. 41-57. ISBN: 9780262580021.
 
 Wright, Frank Lloyd. "Broadacre City." In *Truth Against the World: Frank Lloyd Wright Speaks for an Organic Architecture*. New York, NY: Wiley and Sons, 1987, pp. 351-361. ISBN: 0471845094.
 
@@ -177,7 +177,7 @@ Stein, Clarence. "Radburn, New Jersey." In *Toward New Towns for America* . Camb
 
 Birch, Eugenie L. "Five Generations of the Garden City." In *From Garden City to Green City*. Edited by Kermit C. Parsons and David Schuyler. Baltimore, MD: Johns Hopkins University Press, 2002, pp. 171-200. ISBN: 0801869447.
 
-Explore the website for the Las Vegas, Nevada community of {{% resource_link "804b4917-f2e6-468a-9779-db87b87973fd" "Summerlin" %}}.
+Explore the website for the Las Vegas, Nevada community of [Summerlin](http://www.summerlin.com/).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part 4: Changing Cities by Extending Them - Designing Suburbs and Regions**
@@ -295,7 +295,7 @@ Question of the day: How can urban designers, developers and planners create new
 
 Frenchman, Dennis. "Narrative Places and the New Practice of Urban Design." In *Imaging the City: Continuing Struggles and New Directions*. Edited by Lawrence J. Vale and Sam Bass Warner, Jr. New Brunswick, NJ: Center for Urban Policy Research, 2001. ISBN: 0882851691.
 
-Skim "Executive Summary of the Master Plan for the Worcester Arts District, Community Partners Consultants, Inc., 2002." ({{% resource_link "d0037491-2b70-44f9-a2c1-fa259854dc22" "PDF - 8.7 MB" %}})
+Skim "Executive Summary of the Master Plan for the Worcester Arts District, Community Partners Consultants, Inc., 2002." ([PDF - 8.7 MB](http://www.blackstonedaily.com/ArtsDistrictMasterPlan.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
@@ -313,7 +313,7 @@ Question of the day: Is 'Public Space' being 'Privatized'?
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "987e02f8-5fc5-4177-bc84-b566e0280ddc" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Frieden, Bernard, and Lynne Sagalyn. {{% resource_link "987e02f8-5fc5-4177-bc84-b566e0280ddc" "*Downtown, Inc.: How America Rebuilds Cities*" %}}. Cambridge, MA: MIT Press, 1989, pp. 1-13 and 215-238. ISBN: 0262560593.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/downtown-inc) Frieden, Bernard, and Lynne Sagalyn. [*Downtown, Inc.: How America Rebuilds Cities*](https://mitpress.mit.edu/books/downtown-inc). Cambridge, MA: MIT Press, 1989, pp. 1-13 and 215-238. ISBN: 0262560593.
 
 Rybczynski, Witold. "The New Downtowns." *The Atlantic Monthly* 271, no. 5 (1993): 98-106.
 
@@ -383,9 +383,9 @@ Guest speaker: Dennis Frenchman
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "0b0e0563-5f78-42b4-bc34-b60d951381db" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mitchell, William J. "March of the Meganets," and "Homes and Neighborhoods." In {{% resource_link "0b0e0563-5f78-42b4-bc34-b60d951381db" "*E-topia: \"Urban Life, Jim, But Not As We Know It\"*" %}}. Cambridge, MA: MIT Press, 1999. ISBN: 0262632055.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/e-topia) Mitchell, William J. "March of the Meganets," and "Homes and Neighborhoods." In [*E-topia: "Urban Life, Jim, But Not As We Know It"*](https://mitpress.mit.edu/books/e-topia). Cambridge, MA: MIT Press, 1999. ISBN: 0262632055.
 
-Read "{{% resource_link "0ae89c4b-5ae4-4a45-9d95-01a8258f5a71" "Urban Renewal, the Wireless Way" %}}."
+Read "[Urban Renewal, the Wireless Way](http://www.salon.com/2004/11/29/digital_metropolis/)."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
@@ -405,9 +405,9 @@ Davis, Mike. "Fortress Los Angeles: The Militarization of Urban Space." *Variati
 
 Zinganel, Michael. "Crime Does Pay! How Security Technology, Architecture and Town Planning Are Powered by Crime." *Archis* (March 2002): 44-50.
 
-Please skim: National Capital Planning Commission, The National Capital Urban Design and Security Plan. October 2002. ({{% resource_link "069a44e0-f6e8-4441-b50d-a2e82495dfc8" "PDF" %}})
+Please skim: National Capital Planning Commission, The National Capital Urban Design and Security Plan. October 2002. ([PDF](https://www.ncpc.gov/docs/National_Capital_Urban_Design_and_Security_Plan.pdf))
 
-Read page 4 Key Findings and Recommendations in "Designing for Security in the Nation's Capital." ({{% resource_link "efdc0121-4cb5-4f3b-b517-7a87a036ba0a" "PDF - 2.7 MB" %}})
+Read page 4 Key Findings and Recommendations in "Designing for Security in the Nation's Capital." ([PDF - 2.7 MB](https://www.ncpc.gov/docs/Designing_for_Security_in_the_Nations_Capital.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
