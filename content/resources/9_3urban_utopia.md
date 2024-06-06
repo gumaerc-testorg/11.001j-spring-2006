@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information about three urban utopias and images.
 file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/477aef91680b2c7ece0bf7a95505a556_9_3urban_utopia.pdf
+file_size: 2078775
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -5,6 +5,7 @@ description: This file contains information about sprawl, Massachusetts growing 
   principles, smart growth principles, resident housing choices, village, TOD, retail
   growth and opponents.
 file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/856538cbe0530be12bf442fbcb90588d_13_growth_mgt.pdf
+file_size: 1936920
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
