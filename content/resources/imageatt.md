@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/d3a1aa521272eb60c73b85190a7dd415_imageatt.pdf
+file: /ol-ocw-studio-app/courses/11-001j-introduction-to-urban-design-and-development-spring-2006/d3a1aa521272eb60c73b85190a7dd415_imageatt.pdf
 file_size: 9710
 file_type: application/pdf
 learning_resource_types:
