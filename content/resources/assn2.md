@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains an exercise and the requirements for the exercise.
-file: /ol-ocw-studio-app/courses/11-001j-introduction-to-urban-design-and-development-spring-2006/621de68241813f01194215354a86ac8c_assn2.pdf
+file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/621de68241813f01194215354a86ac8c_assn2.pdf
 file_size: 31717
 file_type: application/pdf
 learning_resource_types:
