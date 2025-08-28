@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information on urbanism vs. suburbanism, urban, social
   consequences of suburban sprawl, small town life accompanied by some images.
-file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/8796e2df72e42813158c50f990b1387a_12_rethinksub.pdf
+file: /ol-ocw-studio-app/courses/11-001j-introduction-to-urban-design-and-development-spring-2006/8796e2df72e42813158c50f990b1387a_12_rethinksub.pdf
 file_size: 1623550
 file_type: application/pdf
 learning_resource_types:
