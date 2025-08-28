@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains exercise on one of the pairs of urban environments
   and exercise requirements.
-file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/ab05c98a3a39e1e9963491ad44ea58c2_assnfinalpaper.pdf
+file: /ol-ocw-studio-app/courses/11-001j-introduction-to-urban-design-and-development-spring-2006/ab05c98a3a39e1e9963491ad44ea58c2_assnfinalpaper.pdf
 file_size: 125628
 file_type: application/pdf
 learning_resource_types:
